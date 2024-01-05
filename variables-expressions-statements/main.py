@@ -61,8 +61,8 @@
 #
 # 'Enter number of years'
 
-years = input('Enter number of years')
-weeks = int(years) * 52
-
-print(f'There are {weeks} weeks in {years} years')
+# years = input('Enter number of years')
+# weeks = int(years) * 52
+#
+# print(f'There are {weeks} weeks in {years} years')
 
