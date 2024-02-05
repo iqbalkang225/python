@@ -13,7 +13,7 @@
 # Output can be like this:
 #
 # How many letters do you want in your password? 8
-# How many numbers do you want in your password? 2
+# How many numbers do you want in your password? 8
 # How many symbols do you want in your password? 2
 # Your password is: EDUpEYIG67*@
 #
